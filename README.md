@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 - Estudante de Engenharia de Software
-- Aspirante a administrador de banco de dados
+- administrador de banco de dados
 - Entusiasta de Python
 - Focado em backend, mas fullstack quando necessário
 - Eu construo sistemas que se comunicam com bancos de dados por meio de APIs
